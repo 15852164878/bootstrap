@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.outer-layer {
+    height: 100%;
+    width: 100%;
+}
+
+.Inner-layer {
+    width: 30%;
+    min-width: 350px;
+    min-height: 50rem;
+    height: 54rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modular-one {
+    float: left;
+    width: 100%;
+    height: 27%;
+    background-color: rgb(226, 4, 52);
+}
+
+.status-bar {
+    padding-left: 2.5%;
+    width: 95%;
+}
+
+.top {
+    width: 100%;
+    height: 50px;
+    margin-top: 5%;
+}
+
+.scan {
+    max-width: 8%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 4%;
+}
+
+.search-box {
+    border-radius: 0.5rem;
+    width: 70%;
+    height: 70%;
+    background-color: rgb(251, 251, 251);
+    float: left;
+    margin-right: 5%;
+}
+
+.search-box p {
+    line-height: 2.1rem;
+    margin-left: 1rem;
+    color: rgb(79, 78, 78);
+    font-size: 1rem;
+}
+
+.news {
+    max-width: 6%;
+}
+
+.ydt {
+    width: 90%;
+    height: 65%;
+    background-color: rgb(521, 157, 158);
+    border-radius: 0.6rem;
+    margin-left: 4%;
+    padding-top: 5%;
+    padding-left: 3%;
+    margin-top: 2%;
+}
+
+.ydt img {
+    width: 95%;
+}
+
+.type {
+    clear: both;
+    width: 100%;
+    height: 15%;
+}
+
+.type li {
+    float: left;
+    margin-top: 3rem;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+}
+
+.co {
+    width: 100%;
+    height: 2%;
+    background-color: rgb(242, 242, 242);
+}
+
+.active {
+    width: 100%;
+    height: 22%;
+}
+
+.active h3 {
+    margin-left: 1.4rem;
+}
+
+.hd {
+    float: left;
+    margin-left: 4%;
+    margin-top: -0.5rem;
+    width: 38%;
+}
+
+.hd img {
+    border-radius: 5%;
+    width: 100%;
+}
+
+.hd3 {
+    margin-top: -0.5rem;
+    margin-left: 4%;
+    float: left;
+    width: 12%;
+    height: 20%;
+}
+
+.hd3 img {
+    width: 100%;
+    border-radius: 5%;
+}
+
+.active p {
+    font-size: 0.8rem;
+}
+
+.lf {
+    height: 19%;
+    width: 100%;
+    float: left;
+}
+
+.ssdr {
+    width: 43%;
+    float: left;
+    margin-left: 1rem;
+}
+
+.ssdr h3 {
+    margin-top: 0.4rem;
+}
+
+.ssdr p {
+    margin-top: 0.3rem;
+    font-size: 0.8rem;
+}
+
+.ssdr img {
+    width: 45%;
+    margin-top: 1rem;
+}
+
+.h {
+    float: left;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(242, 242, 242);
+}
+
+.pzcn {
+    float: left;
+}
+
+.bottom {
+    clear: both;
+    height: 7%;
+}
+
+.bottom img {
+    width: 100%;
+}
